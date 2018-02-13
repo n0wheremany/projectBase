@@ -29,3 +29,5 @@ This repo was created while following a course on [CodeCourse]
 [Slim-flash]: https://github.com/slimphp/Slim-Flash
 [phpmailer]: https://github.com/PHPMailer/PHPMailer
 [CodeCourse]: http://www.codecourse.com/
+
+Illuminate-Database migrate?
